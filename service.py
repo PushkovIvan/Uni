@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from work.utils import *
+from utils import *
 
 # На весь экран
 st.set_page_config(page_title="Streamlit Wide Mode", layout="wide")
